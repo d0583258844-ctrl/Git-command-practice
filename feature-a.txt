@@ -1,0 +1,2 @@
+Feature A implementation
+This is a new feature
